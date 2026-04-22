@@ -1,0 +1,7 @@
+# YouTube Playlist Parser — dependencies
+# Install with:  pip install -r requirements.txt
+
+yt-dlp>=2024.1.1       # Primary fetcher — actively maintained YouTube downloader / metadata extractor
+scrapetube>=2.5.1      # Secondary fetcher — lightweight YouTube scraper for cross-verification
+pyfiglet>=1.0.2        # ASCII art banner
+rich>=13.7.0           # Beautiful terminal output (tables, panels, progress bars, colour)
