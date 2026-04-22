@@ -123,7 +123,7 @@ options:
     "fetched_at": "2025-01-01T12:00:00",
     "fetch_method": "yt-dlp + scrapetube",
     "verified": true,
-    "generator": "yt-playlist-parser v2.0.0"
+    "generator": "yt-playlist-parser v1.0"
   },
   "stats": {
     "video_count": 42,
@@ -191,7 +191,7 @@ If either source fails, the tool falls back to single-source mode automatically.
 
 ## 📋 Requirements
 
-- Python 3.8+
+- `Python 3.8+`
 - `yt-dlp >= 2024.1.1`
 - `scrapetube >= 2.5.1`
 - `pyfiglet >= 1.0.2`
